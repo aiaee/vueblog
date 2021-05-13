@@ -1,0 +1,24 @@
+# npm
+package-lock.json
+node_modules
+
+#yarn
+yarn.lock
+
+# vscode
+.vscode
+.vs
+.idea
+
+# github conf
+.git
+
+# vuepress
+docs/.vuepress/dist
+
+# videos
+docs/.vuepress/public/video/*
+
+# 百度链接推送
+urls.txt
+baiduPush.sh
